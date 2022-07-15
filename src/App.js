@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import Home from "./Home";
 import Login from "./Login";
 import SignUp from "./Signup";
@@ -9,13 +9,13 @@ function App() {
   return (
     <AuthProvider>
       <div className="app">
-        <BrowserRouter>
+        <HashRouter>
           <Routes>
-            <Route exact path="/" element={<Login />} />
-            <Route exact path="/home" element={<Home />} />
-            <Route exact path="/signup" element={<SignUp />} />
+            <Route path="/" element ={<Login />} />
+            <Route path="/home" element ={<Home />} />
+            <Route path="/signup" element ={<SignUp />} />
           </Routes>
-        </BrowserRouter>
+        </HashRouter>
       </div>
     </AuthProvider>
   );
