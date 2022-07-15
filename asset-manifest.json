@@ -1,13 +1,16 @@
 {
-  "main.css": "/react-gh-pages/static/css/main.33a387bd.chunk.css",
-  "main.js": "/react-gh-pages/static/js/main.902bdc1e.chunk.js",
-  "main.js.map": "/react-gh-pages/static/js/main.902bdc1e.chunk.js.map",
-  "static/js/1.581a37e5.chunk.js": "/react-gh-pages/static/js/1.581a37e5.chunk.js",
-  "static/js/1.581a37e5.chunk.js.map": "/react-gh-pages/static/js/1.581a37e5.chunk.js.map",
-  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.346eb3ee.js",
-  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.346eb3ee.js.map",
-  "static/css/main.33a387bd.chunk.css.map": "/react-gh-pages/static/css/main.33a387bd.chunk.css.map",
-  "index.html": "/react-gh-pages/index.html",
-  "precache-manifest.5ebf82d79923ac58e53ec20f785c2a96.js": "/react-gh-pages/precache-manifest.5ebf82d79923ac58e53ec20f785c2a96.js",
-  "service-worker.js": "/react-gh-pages/service-worker.js"
+  "files": {
+    "main.css": "/login-api/static/css/main.073c9b0a.css",
+    "main.js": "/login-api/static/js/main.f2f74dff.js",
+    "static/js/787.d6cb1aba.chunk.js": "/login-api/static/js/787.d6cb1aba.chunk.js",
+    "static/media/logo.svg": "/login-api/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/login-api/index.html",
+    "main.073c9b0a.css.map": "/login-api/static/css/main.073c9b0a.css.map",
+    "main.f2f74dff.js.map": "/login-api/static/js/main.f2f74dff.js.map",
+    "787.d6cb1aba.chunk.js.map": "/login-api/static/js/787.d6cb1aba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f2f74dff.js"
+  ]
 }
